@@ -1,0 +1,13 @@
+{
+  "name": "myproject-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend API project (no Node dependencies).",
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+}
+
+}
+
