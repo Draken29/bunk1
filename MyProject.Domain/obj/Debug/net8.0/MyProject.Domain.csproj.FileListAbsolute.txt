@@ -22,3 +22,16 @@ G:\local e\Vue\backend\bunk\MyProject.Domain\obj\Debug\net8.0\MyProject.Domain.d
 G:\local e\Vue\backend\bunk\MyProject.Domain\obj\Debug\net8.0\refint\MyProject.Domain.dll
 G:\local e\Vue\backend\bunk\MyProject.Domain\obj\Debug\net8.0\MyProject.Domain.pdb
 G:\local e\Vue\backend\bunk\MyProject.Domain\obj\Debug\net8.0\ref\MyProject.Domain.dll
+G:\local e\Vue\backend\bunk1\MyProject.Domain\bin\Debug\net8.0\MyProject.Domain.deps.json
+G:\local e\Vue\backend\bunk1\MyProject.Domain\bin\Debug\net8.0\MyProject.Domain.dll
+G:\local e\Vue\backend\bunk1\MyProject.Domain\bin\Debug\net8.0\MyProject.Domain.pdb
+G:\local e\Vue\backend\bunk1\MyProject.Domain\obj\Debug\net8.0\MyProject.Domain.csproj.AssemblyReference.cache
+G:\local e\Vue\backend\bunk1\MyProject.Domain\obj\Debug\net8.0\MyProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\local e\Vue\backend\bunk1\MyProject.Domain\obj\Debug\net8.0\MyProject.Domain.AssemblyInfoInputs.cache
+G:\local e\Vue\backend\bunk1\MyProject.Domain\obj\Debug\net8.0\MyProject.Domain.AssemblyInfo.cs
+G:\local e\Vue\backend\bunk1\MyProject.Domain\obj\Debug\net8.0\MyProject.Domain.csproj.CoreCompileInputs.cache
+G:\local e\Vue\backend\bunk1\MyProject.Domain\obj\Debug\net8.0\MyProject.Domain.sourcelink.json
+G:\local e\Vue\backend\bunk1\MyProject.Domain\obj\Debug\net8.0\MyProject.Domain.dll
+G:\local e\Vue\backend\bunk1\MyProject.Domain\obj\Debug\net8.0\refint\MyProject.Domain.dll
+G:\local e\Vue\backend\bunk1\MyProject.Domain\obj\Debug\net8.0\MyProject.Domain.pdb
+G:\local e\Vue\backend\bunk1\MyProject.Domain\obj\Debug\net8.0\ref\MyProject.Domain.dll
