@@ -43,6 +43,22 @@ public sealed class UserController : ControllerBase
             });
         }
 
+        if (request.Age <= 20)
+        {
+            return BadRequest(new AuthResponse
+            {
+                Message = "Age must be greater than 20."
+            });
+        }
+
+        if (!IsValidGender(request.Gender))
+        {
+            return BadRequest(new AuthResponse
+            {
+                Message = "Gender must be 'ذكر' or 'انثى'."
+            });
+        }
+
         var passwordHash = HashPassword(request.Password);
         if (!_userStore.TryAddPending(normalizedUserName, passwordHash))
         {
@@ -162,6 +178,17 @@ public sealed class UserController : ControllerBase
         }
 
         return false;
+    }
+
+    private static bool IsValidGender(string gender)
+    {
+        if (string.IsNullOrWhiteSpace(gender))
+        {
+            return false;
+        }
+
+        var normalized = gender.Trim().ToLowerInvariant();
+        return normalized == "ذكر" || normalized == "انثى" || normalized == "أنثى";
     }
 
     private static string HashPassword(string password)
